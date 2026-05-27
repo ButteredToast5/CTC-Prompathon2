@@ -1,0 +1,6 @@
+{
+  "name": "Cash Course: Your First Paycheck",
+  "description": "An interactive financial literacy game teaching youth about smart money management, budgets, bank accounts, credit scores, debt, compound interest, and common financial traps through immersive choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
